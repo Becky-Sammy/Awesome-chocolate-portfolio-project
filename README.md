@@ -2,4 +2,4 @@
 
 ## Project overview
 
-This data analysis project aims to provide insights into the sales performance pf Awesome Chocolate Company. By analyzing various aspect of sales data
+This data analysis project aims to provide insights into the sales performance of Awesome Chocolate Company. By analyzing various aspect of sales data.

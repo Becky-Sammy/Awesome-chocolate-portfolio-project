@@ -8,7 +8,7 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis and Visual](#data-analysis-and-visual)
-- [Results](#results)
+- [Finding](#finding)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -74,16 +74,14 @@ ORDER BY Total_sales DESC;
 ```
 Interact with the report [here](https://app.powerbi.com/groups/me/reports/382cf397-a524-47bd-bd88-3cf4383777ae/ReportSection?experience=power-bi)
 
-### Results
+### Finding
 
 The analysis results are summarized as follows;
 - The company sales has been relatively stable over the year with a noticeable peak over January 2022
 - Every geo has different product which sell fast
 - New Zealand has the highest sales compared to other geo
   
-## Recommendations
+### Recommendations
 
-Based on this analysis, below are the recommedations;
+The analysis highlights opportunities for growth during specific seasons and suggests;
 - Invest in marketing and promotions especially during peak season to increase revenue
-- 
-

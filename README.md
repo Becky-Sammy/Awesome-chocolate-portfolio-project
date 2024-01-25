@@ -1,6 +1,17 @@
 # Awesome-chocolate-portfolio-project
 
-## Project Overview
+## Table of contents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis and Visual](#data-analysis-and-visual)
+- [Results](#results)
+- [Recommendations](#recommendations)
+
+### Project Overview
 
 This data analysis project aims to provide insights into the sales performance of Awesome Chocolate Company. By analyzing various aspect of sales data.
 
@@ -19,7 +30,7 @@ In the initial data preparation, i performed the following tasks;
 1. Data loading and inspection
 2. Data cleaning and formality
 
-### Exploratory Data Analysis(EDA)
+### Exploratory Data Analysis
 
 EDA involved exploring the data to answer key questions below;
 1. What is the total sales?
@@ -29,7 +40,7 @@ EDA involved exploring the data to answer key questions below;
 5. What is the sales by geo?
 6. How much sales/total boxes for each sales person?
 
-### Data analysis and visual
+### Data Analysis and Visual
 
 Code/features worked with;
 ```sql
@@ -61,4 +72,18 @@ ON s.SPID = p.SPID
 GROUP BY p. salesperson
 ORDER BY Total_sales DESC;
 ```
-   
+Interact with the report [here](https://app.powerbi.com/groups/me/reports/382cf397-a524-47bd-bd88-3cf4383777ae/ReportSection?experience=power-bi)
+
+### Results
+
+The analysis results are summarized as follows;
+- The company sales has been relatively stable over the year with a noticeable peak over January 2022
+- Every geo has different product which sell fast
+- New Zealand has the highest sales compared to other geo
+  
+## Recommendations
+
+Based on this analysis, below are the recommedations;
+- Invest in marketing and promotions especially during peak season to increase revenue
+- 
+
